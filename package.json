@@ -1,0 +1,11 @@
+{
+  "name": "hash-tai-xiu-vip",
+  "version": "3.2.1-STABLE",
+  "main": "bot.js",
+  "scripts": {"start":"node bot.js"},
+  "dependencies": {
+    "grammy": "^1.32.0",
+    "moment-timezone": "^0.5.46"
+  },
+  "engines": {"node":">=18.0.0 <=20.x"}
+}
